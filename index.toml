@@ -4101,6 +4101,10 @@ file = "config/oritech-startup.toml"
 hash = "28002fc56972cf0b37b5eb7d83e5f9c42baba6bcb5d67f1c63d0d3f8f46f83cf"
 
 [[files]]
+file = "config/pastel.json5"
+hash = "d067002d8d3fda177fdff4a51d2fa812ed36b01f010f4089ca045996aec18715"
+
+[[files]]
 file = "config/pipez-server.toml"
 hash = "8486eef126f6f611b513e1692658bd92e1b2c0d050b026070a9f952f747dd0e6"
 
@@ -14366,6 +14370,11 @@ hash = "7b551c509b8cc5c7d0cebffe1740a08366923616ba12b0af06f6ad52c3e94f34"
 metafile = true
 
 [[files]]
+file = "mods/databank.pw.toml"
+hash = "d32ca0fc2eabbfcb4f4be27d3a5f20d743b8950c185a09c22f208aeaec10d6bc"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ebb3df18070c94169933965dc6ef11ea68adb2b362623417e6b129f0af9a1bbe"
 metafile = true
@@ -14473,6 +14482,11 @@ metafile = true
 [[files]]
 file = "mods/excessive-utilities.pw.toml"
 hash = "afa89f85261edf99100bdab679c5c81a54b854346f5d7d9a4995cb059b20c929"
+metafile = true
+
+[[files]]
+file = "mods/exclusions-lib.pw.toml"
+hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
@@ -15323,6 +15337,16 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "a7fd33e3171967cf90314c3a1147769b051315b7db4f30e7c51304d0d3ef4dee"
+metafile = true
+
+[[files]]
+file = "mods/pastel.pw.toml"
+hash = "bdddda36c259addde0e8c6683f3d90aed915e8d13f9dfe98503388293d353c48"
+metafile = true
+
+[[files]]
+file = "mods/pasteljei.pw.toml"
+hash = "cc425666ff9949708364fa4d082e66289179e3b20562199c594ee04a5f055fb6"
 metafile = true
 
 [[files]]
