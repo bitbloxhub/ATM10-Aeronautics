@@ -1,0 +1,13 @@
+name = "AllTheOres- Recolorized"
+filename = "AllTheOres-Colorized-1.21.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94dc701f74ae1df46b3f1b287be697f7df146bed"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9291210
+project-id = 1760021

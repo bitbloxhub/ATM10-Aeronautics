@@ -1,0 +1,13 @@
+name = "ATM10AERO"
+author = "ATM Team"
+version = "0.8.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e2464e978f68111313aca605dc2ed98a0d494a6abaa637c1cc0b964cafb0146a"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"

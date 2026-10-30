@@ -1,0 +1,13 @@
+name = "Neo Vitae: BloodBorn"
+filename = "Neo Vitae - Bloodborn.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "887c2beae2a7fab26ac4307ecdfa06dd2b05cc46"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9273135
+project-id = 1757067

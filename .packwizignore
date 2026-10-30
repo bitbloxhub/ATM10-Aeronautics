@@ -1,0 +1,9 @@
+.direnv/**
+.jj/**
+.envrc
+.github/**
+README.md
+flake.nix
+flake.lock
+.gitignore
+local/**

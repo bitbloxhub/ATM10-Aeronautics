@@ -1,0 +1,13 @@
+name = "ATM: Compat"
+filename = "atmcompat-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bd82494d7abfc5db3a404fb75b0cb956d56a52af"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9091523
+project-id = 1730581

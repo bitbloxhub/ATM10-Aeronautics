@@ -1,0 +1,13 @@
+name = "Oritech Sable Compat"
+filename = "oritechsablecompat-0.2.0-RELEASE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21f65fc7f529076cb1a5e49a74de2c3a55caf3cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9082061
+project-id = 1667983

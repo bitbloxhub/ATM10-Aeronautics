@@ -1,0 +1,13 @@
+name = "Mystical Automation"
+filename = "MysticalAutomation-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "586be8e7f3fedc700e4bbf845a55c4758f12db7e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9042800
+project-id = 1265613
