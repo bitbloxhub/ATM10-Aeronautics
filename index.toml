@@ -14311,6 +14311,11 @@ hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
 metafile = true
 
 [[files]]
+file = "mods/creeperconfetti-plus.pw.toml"
+hash = "e74117882357e5665631dec329bce153c78ea1d428b3b5405483099289d88b89"
+metafile = true
+
+[[files]]
 file = "mods/creeperhost-presents-steves-carts.pw.toml"
 hash = "2706d374e0e7269e2b9162feafbc77f4740d8ab14fca4421656cb6e1d6faa453"
 metafile = true
