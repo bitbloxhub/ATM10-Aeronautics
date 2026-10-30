@@ -82,11 +82,11 @@ hash = "539976a2e140c3cb03a6fb92c83b672b7dcf4fa402b0a552206796aca6e8fb04"
 
 [[files]]
 file = "config/ae2-client.toml"
-hash = "9ff447092764391bf9c404eae962d95369ab1e1225a1c15ed1a1b51e435d9996"
+hash = "0ff57167944cac48c707ccf3cb2c242d582bfa0d4925ac31874f6832e685ccf7"
 
 [[files]]
 file = "config/ae2-common.toml"
-hash = "2815e8f0b7c8d9bf08d68b144e0b6b0777494ff421d68aac5c268bd1576b7733"
+hash = "9c771d4fd722a52a7e12343f53945f4763ba4b5800920211f052207ca5941ff2"
 
 [[files]]
 file = "config/aether-client.toml"
