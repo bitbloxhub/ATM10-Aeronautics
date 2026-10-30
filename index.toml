@@ -14186,6 +14186,11 @@ hash = "dc42384932c78a1ee818af8d8535b51ebd836c6d1f13f3171d9bd83985565f04"
 metafile = true
 
 [[files]]
+file = "mods/compass-to-map-xaeros.pw.toml"
+hash = "67c7b7cff53682c66ed1a8d22d9ef99a4716a3a5b7fa2fa4bdbcdf51d9af1262"
+metafile = true
+
+[[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "ba633190e61bd7b32e412cb628a83fdd09b53b7ef8a036f1669687c719a99cc2"
 metafile = true
@@ -14813,11 +14818,6 @@ metafile = true
 [[files]]
 file = "mods/jonns-trophies.pw.toml"
 hash = "43756e367b6c72515df02f6f4c630fbc488aa4bd53e25ee27cd6ff2061becfe7"
-metafile = true
-
-[[files]]
-file = "mods/journeymap.pw.toml"
-hash = "37c2484814ccc1c14c71e1bf1e166d7318cce30d2f559ab919822418d8b63a4d"
 metafile = true
 
 [[files]]
@@ -15873,6 +15873,21 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "47768fb5ae0d0df1dba7d0cce3dfe9b2143142b0e8eda2317ade440d3246944c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-world-map-waystones-compatibility-forge.pw.toml"
+hash = "637bc567eb5260d55ce89e6471c31e4369d454607f3d6f40139f7f7bdef90af9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "5604013bfdf61b3554756f274e2b055d9d1783594d4a342c0daa710b4b777afd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ea108934fe2cc5e7d58763ca5949459052ce368a153822eec42d53273f93a58e"
 metafile = true
 
 [[files]]
