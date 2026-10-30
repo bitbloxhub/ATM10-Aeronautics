@@ -1,0 +1,5 @@
+{
+	waypoints: {
+		death_waypoints: false
+	}
+}

@@ -225,6 +225,10 @@ file = "config/darkmodeeverywhere-client.toml"
 hash = "ba4463ba778efd6ed71aeb3e45d95090fd7ed174008147e31be3b00e0bab709a"
 
 [[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "1f6f23effe5bbdd3cf1fef6d39a1f7464607bb9c948d9fd2dedabe3d232815df"
+
+[[files]]
 file = "config/dysoncubeproject/dysoncubeproject.toml"
 hash = "267ed0986462b44efff7843ee8c3102f1ff13646d95d9dbc4f62bc0124ec8cfd"
 
@@ -463,6 +467,10 @@ hash = "17db07e549f449b90c275eb326600016cfc4b7587f2757a9baaafe0923caa482"
 [[files]]
 file = "config/framedblocks-client.toml"
 hash = "1b0e96a995d9ede7a9ff4b6d2cd3f99817c50313a0de44cb97565b55a8a61e84"
+
+[[files]]
+file = "config/ftbchunks-client.snbt"
+hash = "5c1ebbcb2fc869de809e56893f8c35199918b545c45be84170c138cd1ebaf270"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
@@ -14377,6 +14385,11 @@ metafile = true
 [[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "ebb3df18070c94169933965dc6ef11ea68adb2b362623417e6b129f0af9a1bbe"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "a6967d761dde867ccc1af53dc9f4e530eb9917a9cb21d0fc15708e8cd2c0f2ba"
 metafile = true
 
 [[files]]
