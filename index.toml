@@ -14373,8 +14373,13 @@ hash = "7b551c509b8cc5c7d0cebffe1740a08366923616ba12b0af06f6ad52c3e94f34"
 metafile = true
 
 [[files]]
+file = "mods/data-essence.pw.toml"
+hash = "4f303a872b0d742cb2e5801238938655e5dc65b2597a6293e7251a298b3a4774"
+metafile = true
+
+[[files]]
 file = "mods/databank.pw.toml"
-hash = "d32ca0fc2eabbfcb4f4be27d3a5f20d743b8950c185a09c22f208aeaec10d6bc"
+hash = "241de249d0f6d3d8afca2639dd6a3f5a2254ee0aff9dd514446adf4749b6d3c8"
 metafile = true
 
 [[files]]
@@ -14700,6 +14705,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "b24c97f37ff924391f9beae46b8955eb0475b3b3f74616af2430dff4505d9b49"
+metafile = true
+
+[[files]]
+file = "mods/halcyonjei.pw.toml"
+hash = "d9cea3ad9c215bb4f5460ee77a43c49805413ec88beffd0194325d90e86512d8"
 metafile = true
 
 [[files]]
@@ -15305,6 +15315,11 @@ metafile = true
 [[files]]
 file = "mods/occultism.pw.toml"
 hash = "6723317c7741229eaa630dac654fb109fdad393495dea84e7265fae0dcd1a051"
+metafile = true
+
+[[files]]
+file = "mods/opalescence.pw.toml"
+hash = "29d492e38bf44e0e266a6345a24b54f162d2da3efe14af2a30010f7ee36d340c"
 metafile = true
 
 [[files]]
@@ -15996,6 +16011,10 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
+
+[[files]]
+file = "patch-halcyonjei.sh"
+hash = "49cd7054d23bdec2887bf504ea89f02850b360bfa46168c6479de0a4123518a8"
 
 [[files]]
 file = "resourcepacks/alltheores-recolorized.pw.toml"

@@ -1,0 +1,13 @@
+name = "Opalescence"
+filename = "opalescence-1.0.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NLIgXywb/versions/uHJdalxK/opalescence-1.0.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "171083732b70ddc40ce83ef8db42743993847e5db8e1060ad0cda38e7255e0cf452c13e05d2e15802b7027d259ce9e79827e6831eb683521c0582c76ad923f21"
+
+[update]
+[update.modrinth]
+mod-id = "NLIgXywb"
+version = "uHJdalxK"
