@@ -1,13 +1,13 @@
 name = "HalcyonJEI"
-filename = "HalcyonJEI-21.1.0.jar"
+filename = "HalcyonJEI-21.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/W2Arg6nT/versions/ewxozoKA/HalcyonJEI-21.1.0.jar"
+url = "https://cdn.modrinth.com/data/W2Arg6nT/versions/pOpy3bxI/HalcyonJEI-21.1.1.jar"
 hash-format = "sha512"
-hash = "3dff46f1512bfc0da826c3c6d50d9fa5cef1f0ba58addf29f330240dfd7af49bf7e5c136fc05fe91af561ec7a2235a743308b104cb087712166814a9a6ec9205"
+hash = "d0a47ef38006e7ac3e31bca7cd574c4d9e91ba13e4f4ef628b08069802101e67fe37432c6e2d5d4de78d6c44afe0c10ae079bf77703d8c78bcd4ec51116df9b7"
 
 [update]
 [update.modrinth]
 mod-id = "W2Arg6nT"
-version = "ewxozoKA"
+version = "pOpy3bxI"
