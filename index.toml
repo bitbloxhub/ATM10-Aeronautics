@@ -16027,6 +16027,11 @@ hash = "f9a99b65e8a0535a30f60a4491ff38f0912a33c7005291f564ead23f03ceccee"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mob-grinding-utils-vanillafied.pw.toml"
+hash = "756e8a131350971adac3e382c2e00d012470cb1349befcb07798d8ad7b510557"
+metafile = true
+
+[[files]]
 file = "resourcepacks/neo-vitae-bloodborn.pw.toml"
 hash = "9b948bc861e74cb6c0504f4a6aca85b93d5b70ff6cdbc3625c8ef93dc7bf517d"
 metafile = true
