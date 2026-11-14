@@ -1,0 +1,13 @@
+name = "Create: Thaumaturgy"
+filename = "create_thaumaturgy-1.21.1-0.12.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "672a628468962dbb532a0d9a010a00766c10bee8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9594242
+project-id = 1741015

@@ -1,0 +1,13 @@
+name = "Thaumaturge Tinker"
+filename = "Thaumaturge-Tinkers-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3a8ce3b7ad3cfa6d5dad81928d578d02044eeb6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9607458
+project-id = 1792741

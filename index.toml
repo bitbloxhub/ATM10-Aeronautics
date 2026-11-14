@@ -13948,6 +13948,11 @@ hash = "f15037bbd326999cb63b1267628f64c29ca3df1650c2276e492cb5ff88fbed7e"
 metafile = true
 
 [[files]]
+file = "mods/applied-thaumaturge.pw.toml"
+hash = "952713b82d9e47fbeff0bd4c065a7ca2c2d865c02fe8e757e4b4225899a15b46"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "657a01a86bbf8617e4726c77df08f708e43a3db12db74b837eebd8eb1d93faae"
 metafile = true
@@ -14315,6 +14320,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
+metafile = true
+
+[[files]]
+file = "mods/createthaumaturgy.pw.toml"
+hash = "a4b8c29d0d24d312f9cb417af349e98b9aef9944c115524d7528855601f95865"
 metafile = true
 
 [[files]]
@@ -15810,6 +15820,26 @@ metafile = true
 [[files]]
 file = "mods/tesseract-api-neoforge.pw.toml"
 hash = "5a4284886be2ece1945f719fbbf6f790bcddc3815f4ee8e42e5ca99a0d1d0ea0"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge-additions.pw.toml"
+hash = "c65a77ed2be272f93a5ab389250cea3a837513d5895916799a9a274ea152c771"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge-null-field.pw.toml"
+hash = "7c88aecd2c939fcfc198173e333d5460b672a668744bd57fe51a86b3344be987"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge-tinker.pw.toml"
+hash = "3757d4c9532e0ab2d559293d0e2e207ff9422ba14f35abb44f88177e5162a070"
+metafile = true
+
+[[files]]
+file = "mods/thaumaturge.pw.toml"
+hash = "2a69c51a520dea3c6446b38ec7f81f8e43b2bdbd4a5a9169e09e95835669ebe5"
 metafile = true
 
 [[files]]

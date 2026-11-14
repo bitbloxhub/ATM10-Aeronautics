@@ -1,0 +1,13 @@
+name = "Thaumaturge Null Field"
+filename = "thaumaturge_null_field-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ce4275a81c49d499c077258899143c3f914541de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9611882
+project-id = 1803883
