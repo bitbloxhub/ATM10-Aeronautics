@@ -16043,10 +16043,6 @@ hash = "f60046584d023aaa0af0e8a1f3f021acb13121f2130f7c66b85e704da4d72643"
 metafile = true
 
 [[files]]
-file = "patch-halcyonjei.sh"
-hash = "49cd7054d23bdec2887bf504ea89f02850b360bfa46168c6479de0a4123518a8"
-
-[[files]]
 file = "resourcepacks/alltheores-recolorized.pw.toml"
 hash = "9d7bc7c10a9c756cfdeae2a63196b237c3491091dbdbd7ba96037ce84fd49857"
 metafile = true
