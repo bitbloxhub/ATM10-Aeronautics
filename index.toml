@@ -14708,6 +14708,11 @@ hash = "9aafdd83668c1b903caf0245b0bf2de3bb743befaa78d39e74a95c9933d624ac"
 metafile = true
 
 [[files]]
+file = "mods/goodbyeglerrors.pw.toml"
+hash = "1b7cf8c7ef42d847e9a257fcad3b4af67d681cd9b7e031a19140e41691a57fbc"
+metafile = true
+
+[[files]]
 file = "mods/gravitational-modulating-additional-unit.pw.toml"
 hash = "a1c7bbaa1a007909fe408ccd54a069e7c8783d01359c9f0a5dc6288056d1e9c3"
 metafile = true

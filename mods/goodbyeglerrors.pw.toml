@@ -1,0 +1,8 @@
+name = "goodbyeglerrors"
+filename = "goodbyeglerrors-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/bitbloxhub/goodbyeglerrors/releases/download/v1.0.0/goodbyeglerrors-1.0.0.jar"
+hash-format = "sha256"
+hash = "a2a535dd231dfd28fc7abdfaa3b70ca09a737ca4e104a9c4dda21a5eef9e2423"
