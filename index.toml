@@ -15698,6 +15698,11 @@ hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "2372d0016f2528eefbebf06878ee671779d3c684363c7b3d7c85ac1c2c1a1b4e"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib.pw.toml"
 hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
