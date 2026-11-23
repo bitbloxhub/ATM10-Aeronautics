@@ -13573,6 +13573,10 @@ file = "kubejs/server_scripts/mods/SushiGoCrafting/tags.js"
 hash = "df6886d7c73cf20164207bfb9686f989fe0f3f486efc74cf322d6974e4a18bef"
 
 [[files]]
+file = "kubejs/server_scripts/mods/Thaumaturge/Recipes.js"
+hash = "8cd6edab5ce5ff94f4d5c97926e38bc2b784348ffb781a51e59b4ff00acac0a1"
+
+[[files]]
 file = "kubejs/server_scripts/mods/Theurgy/liquefaction.js"
 hash = "e78eb7d69e7e4ea79850f6f9a814c861ac7f0611c5bf805dfde17f2eb5261a12"
 
